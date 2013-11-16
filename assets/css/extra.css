@@ -1,0 +1,17 @@
+/* 
+    Document   : extra
+    Created on : Nov 16, 2013, 7:51:18 AM
+    Author     : Femi TAIWO <dftaiwo@gmail.com>
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+        display: block;
+}
+
+label{
+        display:block;
+        float:left;
+        width:250px;
+}
